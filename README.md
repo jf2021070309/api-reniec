@@ -1,4 +1,4 @@
-# Consulta DNI API (RENIEC)
+# Consulta DNI API 
 
 Herramienta ligera en PHP para obtener nombres y apellidos de ciudadanos peruanos mediante el scraping de `eldni.com`. Proporciona tanto una interfaz web moderna como un endpoint API para integraciones sencillas.
 
